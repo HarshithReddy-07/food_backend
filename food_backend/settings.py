@@ -97,6 +97,7 @@ REST_FRAMEWORK = {}
 # Replaces: app.use(cors({ origin: 'http://localhost:5173', credentials: true }))
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173", 
+    "https://food-backend-7its.onrender.com/"
 ]
 CORS_ALLOW_CREDENTIALS = True
 
