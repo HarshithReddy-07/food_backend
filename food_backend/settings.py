@@ -35,7 +35,7 @@ SECRET_KEY = 'django-insecure-&q#8d)%nv#_yi*v4hptp$j+vu1c_gvzvb6ke+br=c_j0_7b7o+
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "https://food-backend-7its.onrender.com/"
+    "https://food-backend-7its.onrender.com"
 ]
 
 
@@ -99,7 +99,7 @@ REST_FRAMEWORK = {}
 # Replaces: app.use(cors({ origin: 'http://localhost:5173', credentials: true }))
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173", 
-    "https://food-backend-7its.onrender.com/"
+    "https://food-backend-7its.onrender.com"
 ]
 CORS_ALLOW_CREDENTIALS = True
 
