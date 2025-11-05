@@ -1,0 +1,479 @@
+
+[
+  {
+    "name": "appam",
+    "calories": "180",
+    "Fats": "4.12",
+    "Carbs": "30.47",
+    "Proteins": "4.6"
+  },
+  {
+    "name": "beetroot fry",
+    "calories": "43",
+    "Fats": "0.17",
+    "Carbs": "9.56",
+    "Proteins": "1.61"
+  },
+  {
+    "name": "boiled egg",
+    "calories": "154",
+    "Fats": "10.57",
+    "Carbs": "1.12",
+    "Proteins": "12.53"
+  },
+  {
+    "name": "carrot fry",
+    "calories": "54",
+    "Fats": "2.48",
+    "Carbs": "7.99",
+    "Proteins": "0.74"
+  },
+  {
+    "name": "chicken 65",
+    "calories": "182",
+    "Fats": "9.85",
+    "Carbs": "8.41",
+    "Proteins": "16.09"
+  },
+  {
+    "name": "chicken briyani",
+    "calories": "139",
+    "Fats": "3.93",
+    "Carbs": "19.23",
+    "Proteins": "6.36"
+  },
+  {
+    "name": "chutney",
+    "calories": "149",
+    "Fats": "0.29",
+    "Carbs": "36.85",
+    "Proteins": "1.33"
+  },
+  {
+    "name": "crab curry",
+    "calories": "101",
+    "Fats": "1.76",
+    "Carbs": "0",
+    "Proteins": "20.03"
+  },
+  {
+    "name": "dosa",
+    "calories": "212",
+    "Fats": "2.07",
+    "Carbs": "42.48",
+    "Proteins": "5.03"
+  },
+  {
+    "name": "idly",
+    "calories": "135",
+    "Fats": "0.62",
+    "Carbs": "26.31",
+    "Proteins": "6.36"
+  },
+  {
+    "name": "kaara chutney",
+    "calories": "149",
+    "Fats": "0.29",
+    "Carbs": "36.85",
+    "Proteins": "1.33"
+  },
+  {
+    "name": "lemon rice",
+    "calories": "146",
+    "Fats": "0.55",
+    "Carbs": "31.48",
+    "Proteins": "3"
+  },
+  {
+    "name": "masala vada",
+    "calories": "230",
+    "Fats": "16.72",
+    "Carbs": "16.09",
+    "Proteins": "4.94"
+  },
+  {
+    "name": "mushroom briyani",
+    "calories": "150",
+    "Fats": "6.5",
+    "Carbs": "20",
+    "Proteins": "7"
+  },
+  {
+    "name": "mutton briyani",
+    "calories": "141",
+    "Fats": "4.34",
+    "Carbs": "19.26",
+    "Proteins": "5.84"
+  },
+  {
+    "name": "paal kolukattai",
+    "calories": "230",
+    "Fats": "23.84",
+    "Carbs": "5.54",
+    "Proteins": "2.29"
+  },
+  {
+    "name": "paneer briyani",
+    "calories": "169",
+    "Fats": "4.47",
+    "Carbs": "26.41",
+    "Proteins": "5.69"
+  },
+  {
+    "name": "paneer masala",
+    "calories": "211",
+    "Fats": "16.66",
+    "Carbs": "8.83",
+    "Proteins": "7.68"
+  },
+  {
+    "name": "prawn thokku",
+    "calories": "101",
+    "Fats": "3.46",
+    "Carbs": "2.43",
+    "Proteins": "14.42"
+  },
+  {
+    "name": "puthina chutney",
+    "calories": "44",
+    "Fats": "1.64",
+    "Carbs": "6.8",
+    "Proteins": "2.04"
+  },
+  {
+    "name": "raagi ball",
+    "calories": "205",
+    "Fats": "4.4",
+    "Carbs": "35.52",
+    "Proteins": "5.4"
+  },
+  {
+    "name": "raagi malt",
+    "calories": "52",
+    "Fats": "1.02",
+    "Carbs": "8.83",
+    "Proteins": "2.32"
+  },
+  {
+    "name": "sambar",
+    "calories": "114",
+    "Fats": "4.1",
+    "Carbs": "15.9",
+    "Proteins": "4.9"
+  },
+  {
+    "name": "sambar rice",
+    "calories": "90",
+    "Fats": "1.85",
+    "Carbs": "16.44",
+    "Proteins": "2.75"
+  },
+  {
+    "name": "vada",
+    "calories": "282",
+    "Fats": "8.64",
+    "Carbs": "40.97",
+    "Proteins": "10.59"
+  },
+  {
+    "name": "veg briyani",
+    "calories": "130",
+    "Fats": "2.53",
+    "Carbs": "23.33",
+    "Proteins": "3.16"
+  },
+  {
+    "name": "ven pongal",
+    "calories": "70",
+    "Fats": "1.71",
+    "Carbs": "11.9",
+    "Proteins": "1.88"
+  },
+  {
+    "name": "white rice",
+    "calories": "135",
+    "Fats": "1.07",
+    "Carbs": "27.64",
+    "Proteins": "2.64"
+  },
+  {
+    "name": "BhindiMasala",
+    "calories": "112",
+    "Fats": "6.4",
+    "Carbs": "13.51",
+    "Proteins": "2.99"
+  },
+  {
+    "name": "Chai",
+    "calories": "30",
+    "Fats": "0.53",
+    "Carbs": "6.12",
+    "Proteins": "0.53"
+  },
+  {
+    "name": "FishCurry",
+    "calories": "100",
+    "Fats": "4.59",
+    "Carbs": "1.9",
+    "Proteins": "12.4"
+  },
+  {
+    "name": "GulabJamun",
+    "calories": "323",
+    "Fats": "15.75",
+    "Carbs": "39.26",
+    "Proteins": "7.15"
+  },
+  {
+    "name": "Jalebi",
+    "calories": "300",
+    "Fats": "4.31",
+    "Carbs": "62.36",
+    "Proteins": "4.19"
+  },
+  {
+    "name": "Kebab",
+    "calories": "159",
+    "Fats": "4.27",
+    "Carbs": "19.77",
+    "Proteins": "9.71"
+  },
+  {
+    "name": "MuttonCurry",
+    "calories": "126",
+    "Fats": "8.77",
+    "Carbs": "1.02",
+    "Proteins": "10.37"
+  },
+  {
+    "name": "curd",
+    "calories": "100",
+    "Fats": "4.2",
+    "Carbs": "3.45",
+    "Proteins": "11.75"
+  },
+  {
+    "name": "papad",
+    "calories": "371",
+    "Fats": "3.25",
+    "Carbs": "59.87",
+    "Proteins": "25.56"
+  },
+  {
+    "name": "raita",
+    "calories": "101",
+    "Fats": "7.21",
+    "Carbs": "6.43",
+    "Proteins": "3.31"
+  },
+  {
+    "name": "roti",
+    "calories": "264",
+    "Fats": "1.3",
+    "Carbs": "55.81",
+    "Proteins": "9.61"
+  },
+  {
+    "name": "rasam",
+    "calories": "19",
+    "Fats": "0.88",
+    "Carbs": "2.82",
+    "Proteins": "0.39"
+  },
+  {
+    "name": "sweet",
+    "calories": "390",
+    "Fats": "0.15",
+    "Carbs": "99.52",
+    "Proteins": "2.79"
+  },
+{
+  "name": "veg-fry",
+  "calories": "168",
+  "Fats": "6.59",
+  "Carbs": "21.1",
+  "Proteins": "7.72"
+},
+{
+  "name": "SAMOSA",
+  "calories": "308",
+  "Fats": "17.86",
+  "Carbs": "32.21",
+  "Proteins": "4.67"
+},
+{
+  "name": "UPMA",
+  "calories": "209",
+  "Fats": "3.15",
+  "Carbs": "38.06",
+  "Proteins": "6.76"
+},
+{
+  "name": "cashew",
+  "calories": "581",
+  "Fats": "47.77",
+  "Carbs": "30.16",
+  "Proteins": "16.84"
+},
+{
+  "name": "bread",
+  "calories": "266",
+  "Fats": "3.29",
+  "Carbs": "50.61",
+  "Proteins": "7.64"
+},
+{
+  "name": "dates",
+  "calories": "277",
+  "Fats": "0.15",
+  "Carbs": "74.97",
+  "Proteins": "1.81"
+},
+{
+  "name": "Kiwi",
+  "calories": "61",
+  "Fats": "0.52",
+  "Carbs": "14.66",
+  "Proteins": "1.14"
+},
+{
+  "name": "mango",
+  "calories": "60",
+  "Fats": "0.25",
+  "Carbs": "15.74",
+  "Proteins": "0.47"
+},
+{
+  "name": "Palak Paneer",
+  "calories": "169",
+  "Fats": "13.18",
+  "Carbs": "6.07",
+  "Proteins": "7.89"
+},
+{
+  "name": "Paneer Ki Sabji",
+  "calories": "125",
+  "Fats": "8.52",
+  "Carbs": "9.64",
+  "Proteins": "4.02"
+},
+{
+  "name": "MuskMelon",
+  "calories": "34",
+  "Fats": "0.19",
+  "Carbs": "8.16",
+  "Proteins": "0.84"
+},
+{
+  "name": "apple",
+  "calories": "52",
+  "Fats": "0.17",
+  "Carbs": "13.81",
+  "Proteins": "0.26"
+},
+{
+  "name": "banana",
+  "calories": "89",
+  "Fats": "0.33",
+  "Carbs": "22.84",
+  "Proteins": "1.09"
+},
+{
+  "name": "custard apple",
+  "calories": "101",
+  "Fats": "0.6",
+  "Carbs": "25.2",
+  "Proteins": "1.7"
+},
+{
+  "name": "Guava",
+  "calories": "68",
+  "Fats": "0.95",
+  "Carbs": "14.32",
+  "Proteins": "2.55"
+},
+{
+  "name": "orange",
+  "calories": "47",
+  "Fats": "0.12",
+  "Carbs": "11.75",
+  "Proteins": "0.94"
+},
+{
+  "name": "pineapple",
+  "calories": "48",
+  "Fats": "0.12",
+  "Carbs": "12.63",
+  "Proteins": "0.54"
+},
+{
+  "name": "almonds",
+  "calories": "578",
+  "Fats": "50.64",
+  "Carbs": "19.74",
+  "Proteins": "21.26"
+},
+{
+  "name": "pomogrenate",
+  "calories": "68",
+  "Fats": "0.3",
+  "Carbs": "17.17",
+  "Proteins": "0.95"
+},
+{
+  "name": "Burger",
+  "calories": "313",
+  "Fats": "14.85",
+  "Carbs": "31.13",
+  "Proteins": "14.48"
+},
+{
+  "name": "Pizza",
+  "calories": "276",
+  "Fats": "11.74",
+  "Carbs": "30.33",
+  "Proteins": "12.33"
+},
+{
+  "name": "Omlette",
+  "calories": "153",
+  "Fats": "12.02",
+  "Carbs": "0.69",
+  "Proteins": "10.62"
+},
+{
+  "name": "Cake",
+  "calories": "297",
+  "Fats": "4.3",
+  "Carbs": "57.7",
+  "Proteins": "7.3"
+},
+{
+  "name": "dal",
+  "calories": "101",
+  "Fats": "3.23",
+  "Carbs": "13.36",
+  "Proteins": "5.28"
+},
+{
+  "name": "poori",
+  "calories": "296",
+  "Fats": "9.43",
+  "Carbs": "46.73",
+  "Proteins": "7.54"
+},
+{
+  "name": "pickle",
+  "calories": "18",
+  "Fats": "0.19",
+  "Carbs": "4.12",
+  "Proteins": "0.62"
+},
+{
+  "name": "salad",
+  "calories": "17",
+  "Fats": "0.24",
+  "Carbs": "3.2",
+  "Proteins": "1.52"
+}
+]
