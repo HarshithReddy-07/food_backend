@@ -20,9 +20,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 # (Optional but recommended)
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static'),
-]
+# STATICFILES_DIRS = [
+#     os.path.join(BASE_DIR, 'static'),
+# ]
 
 
 # Quick-start development settings - unsuitable for production
@@ -35,7 +35,9 @@ SECRET_KEY = 'django-insecure-&q#8d)%nv#_yi*v4hptp$j+vu1c_gvzvb6ke+br=c_j0_7b7o+
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "https://food-backend-7its.onrender.com"
+    "food-backend-7its.onrender.com",
+    "localhost",
+    "127.0.0.1"
 ]
 
 
