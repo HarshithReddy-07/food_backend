@@ -34,7 +34,9 @@ SECRET_KEY = 'django-insecure-&q#8d)%nv#_yi*v4hptp$j+vu1c_gvzvb6ke+br=c_j0_7b7o+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "https://food-backend-7its.onrender.com/"
+]
 
 
 env = environ.Env()
