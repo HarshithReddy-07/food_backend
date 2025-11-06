@@ -20,9 +20,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 # (Optional but recommended)
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static'),
-]
+# STATICFILES_DIRS = [
+#     os.path.join(BASE_DIR, 'static'),
+# ]
 
 
 # Quick-start development settings - unsuitable for production
@@ -32,10 +32,12 @@ STATICFILES_DIRS = [
 SECRET_KEY = 'django-insecure-&q#8d)%nv#_yi*v4hptp$j+vu1c_gvzvb6ke+br=c_j0_7b7o+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
-    "https://food-backend-7its.onrender.com/"
+    "food-backend-7its.onrender.com",
+    "localhost",
+    "127.0.0.1"
 ]
 
 
@@ -99,7 +101,7 @@ REST_FRAMEWORK = {}
 # Replaces: app.use(cors({ origin: 'http://localhost:5173', credentials: true }))
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173", 
-    "https://food-backend-7its.onrender.com/"
+    "https://food-backend-7its.onrender.com"
 ]
 CORS_ALLOW_CREDENTIALS = True
 
