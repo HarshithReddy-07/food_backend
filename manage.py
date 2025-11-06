@@ -4,7 +4,7 @@ import os
 import sys
 
 DEBUG = False
-ALLOWED_HOSTS = ['your-backend.onrender.com', 'https://food-backend-7its.onrender.com']
+ALLOWED_HOSTS = ['https://food-frontend-liart.vercel.app', 'https://food-backend-7its.onrender.com']
 
 BASE_DIR = "food"
 # Static files
